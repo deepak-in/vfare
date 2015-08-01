@@ -1,0 +1,33 @@
+{
+  "SystemsTraceAuditNumber": 350420,
+  "RetrievalReferenceNumber": "401010350420",
+  "DateAndTimeLocalTransaction": "2021-10-26T21:32:52",
+  "AcquiringBin": 409999,
+  "AcquirerCountryCode": "101",
+  "SenderReference": "",
+  "SenderAccountNumber": "1234567890123456",
+  "SenderCountryCode": "USA",
+  "TransactionCurrency": "USD",
+  "SenderName": "John Smith",
+  "SenderAddress": "44 Market St.",
+  "SenderCity": "San Francisco",
+  "SenderStateCode": "CA",
+  "RecipientCardPrimaryAccountNumber": "4957030420210454",
+  "Amount": "112.00",
+  "BusinessApplicationID": "AA",
+  "MerchantCategoryCode": 6012,
+  "TransactionIdentifier": 234234322342343,
+  "SourceOfFunds": "03",
+  "CardAcceptor": {
+    "Name": "John Smith",
+    "TerminalId": "13655392",
+    "IdCode": "VMT200911026070",
+    "Address": {
+      "State": "CA",
+      "County": "081",
+      "Country": "USA",
+      "ZipCode": "94105"
+    }
+  },
+  "FeeProgramIndicator": "123"
+}

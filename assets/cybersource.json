@@ -1,0 +1,9 @@
+{
+  "amount": "20.99",
+  "currency": "USD",
+  "payment": {
+    "cardNumber": "4444444444444444",
+    "cardExpirationMonth": "10",
+    "cardExpirationYear": "2016"
+  }
+}
